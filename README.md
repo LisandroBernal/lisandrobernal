@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! Soy Lisandro Bernal👋 
+📚 Estudiante de Desarrollador Web en Cervantes
+
 
 <!--
 **LisandroBernal/lisandrobernal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
